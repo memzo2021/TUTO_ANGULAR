@@ -35,7 +35,7 @@ _Pour et pour lier à un évenement du DOM on utilise les parenthèses
 
 
 **********************************************************************************************************************************************************************
-<li>Composant</li> : bloc de code affichant une fonctionnalité réutilisable dans les modules(Une application c'est ni plus ni moins une -> Abrescence de composants)<br>
+<li>Composant</li>  = <br> Bloc de code affichant une fonctionnalité réutilisable dans les modules(Une application c'est ni plus ni moins une -> Abrescence de composants)<br>
 
 Exemple: AppComponent /MenuComponent/ContentComponent/SidebarComponent<br>
 
