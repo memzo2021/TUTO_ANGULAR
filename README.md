@@ -4,7 +4,7 @@
 ngFOR => c'est une boucle for dans mon template
 ********************************************************************************************************************************************************************
 
-ng generate component suivi du nom =>   créer mon component dans un dossier app:
+ng generate component suivi du nom =>   crée mon component dans un dossier app:
 <li>Il crée un TEMPLATE</li>
 <li>Une feuille de style </li>
 <li>Et un fichier typscritp(@component({ <br>
