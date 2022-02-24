@@ -12,7 +12,7 @@ ng generate component suivi du nom =>   créer mon component dans un dossier app
     templateUrl:'./nom-de-mon-app.html', <br>
     StyleUrls:['./nom-de-mon-app.css']
 })) </li>
-********************************************************************************************************************************************************************
+*************************************************************************************************************************************
 
 j'injecte via le  constructeur()<br>
 Exemple : constructor(<br>
