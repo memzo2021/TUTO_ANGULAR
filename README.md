@@ -1,8 +1,16 @@
 ﻿# Angular-tuto:
+AGULAR 
+Avant tout, Angular est un framework orienté composant. Il faudra écrire de petits composants, et assemblés, ils vont constituer une application complète.
 
+ Un composant est un groupe d’éléments HTML, dans un template, dédiés à une tâche particulière.  
+ Mes composants seront organisés de façon hiérarchique, comme le DOM : un composant racine aura des composants enfants, qui auront chacun des composants enfants, etc. 
 
+ Angular est un framework complet, avec plein d’outils pour faciliter les tâches classiques du développement web. Construire des formulaires, appeler un serveur HTTP, du routage d’URL, interagir avec d’autres bibliothèques, des animations,  
+ 
+ ******************************************************************************
 ngFOR => c'est une boucle for dans mon template
-********************************************************************************************************************************************************************
+
+***********************************************************************************
 
 ng generate component suivi du nom =>   crée mon component dans un dossier app:
 <li>Il crée un TEMPLATE</li>
