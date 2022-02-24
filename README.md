@@ -2,7 +2,7 @@
 
 
 ngFOR => c'est une boucle for dans mon template
-______________________________________________________________________________
+********************************************************************************************************************************************************************
 
 ng generate component suivi du nom =>   créer mon component dans un dossier app:
 <li>Il crée un TEMPLATE</li>
@@ -12,19 +12,19 @@ ng generate component suivi du nom =>   créer mon component dans un dossier app
     templateUrl:'./nom-de-mon-app.html', <br>
     StyleUrls:['./nom-de-mon-app.css']
 })) </li>
-_________________________________________________________________
+********************************************************************************************************************************************************************
 
 j'injecte via le  constructeur()<br>
 Exemple : constructor(<br>
     private route: ActivatedRoute,<br>
     private cartService: CartService <br>
   ) { }<br>
-___________________________________________________________________________________
+**********************************************************************************************************************************************************************
 --Interpolation : afficher des données venant du typscript dans le template <br>
 --Liaision par proprietés => code typscript  vers  template html
 
 
-________________________________________________________________________________
+**********************************************************************************************************************************************************************
 <li>Composant</li> = bloc de code affichant une fonctionnalité réutilisable dans les modules(Une application c'est ni plus ni moins une -> Abrescence de composants)<br>
 
 Exemple: AppComponent /MenuComponent/ContentComponent/SidebarComponent<br>
@@ -38,13 +38,13 @@ Appmodule =>modulaire racine permet de lancer l'application
 
 Template: à revoir  
 
-##ng serve =pour lancer le server de developpement 
+ng serve =pour lancer le server de developpement 
 
 Côté gauche : node_modules contient Typscript et peut aussi contenir bootstrap
 
-#src dossier source qui sera mon dossier de travail principal 
+src dossier source qui sera mon dossier de travail principal 
 dans le html je trouve :<app-root></app-root>
-__________________________________________________________________________________
+**************************************************************************************************************************************************************************
 
 Liaison entre Typscript et mon Template :
 
