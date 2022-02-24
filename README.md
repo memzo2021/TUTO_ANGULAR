@@ -1,4 +1,4 @@
-﻿# angular-tuto
+﻿# Angular-tuto:
 
 
 ngFOR => c'est une boucle for dans mon template
@@ -25,7 +25,7 @@ Exemple : constructor(<br>
 
 
 **********************************************************************************************************************************************************************
-<li>Composant</li> = bloc de code affichant une fonctionnalité réutilisable dans les modules(Une application c'est ni plus ni moins une -> Abrescence de composants)<br>
+<li>Composant</li> : bloc de code affichant une fonctionnalité réutilisable dans les modules(Une application c'est ni plus ni moins une -> Abrescence de composants)<br>
 
 Exemple: AppComponent /MenuComponent/ContentComponent/SidebarComponent<br>
 
